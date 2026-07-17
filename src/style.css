@@ -11,7 +11,7 @@ background: #272044;
 
 .grid{
     display: grid;
-    grid-template-columns: 1fr 1fr 2fr;
+    grid-template-columns: 2fr 2fr 2fr;
 }
 
 section{
@@ -86,6 +86,8 @@ footer p{
     font-size: 16px;
     line-height: 24px;
     opacity: 0.9;
+    margin-right: 20px;
+    text-align: center;
 }
 footer ul{
 padding: 0;
